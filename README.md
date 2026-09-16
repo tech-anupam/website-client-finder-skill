@@ -11,9 +11,7 @@ Find businesses that need a new website (or a rebuild of the one they have), and
 
 **Repo:** [`tech-anupam/website-client-finder-skill`](https://github.com/tech-anupam/website-client-finder-skill)
 **Author:** [github.com/tech-anupam](https://github.com/tech-anupam)
-
 ---
-
 ## What this actually does
 
 You give it two things:
@@ -94,6 +92,7 @@ Nothing invented. Every contact has a source. Every message is different.
     <img src="https://img.shields.io/badge/GitHub-tech--anupam-181717?style=for-the-badge&logo=github" alt="GitHub: tech-anupam" />
   </a>
 </p>
+ 
  
  
  
