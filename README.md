@@ -30,8 +30,6 @@ It then does the work a freelancer normally spends a whole day on.
 
 You end up with a list of leads you didn't have to search for, each one already matched to the right pitch.
 
----
-
 ## Automation: sending the emails
 
 [![Approval required](https://img.shields.io/badge/default-review%20before%20send-yellow?style=flat-square)](#automation-sending-the-emails)
